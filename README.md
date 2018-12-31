@@ -12,4 +12,5 @@ Schedule:
   Week  |  Chapters                     |  Macallan  |  Michael  |
 --------------------------------------------------------------------
    1    |  Foreward, Preface, 1, 2, 3   |     x      |     x     |
+   
    2    |  4, begin FP ex. from 1       |            |           |
