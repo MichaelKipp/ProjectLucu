@@ -21,4 +21,4 @@ Schedule:
    
    2    |  4, 5 (begin FP ex. from 1)   |    (x)     |     x     |
 
-   3    |  YDKJS first book. Do Project |            |           |
+   3    |  YDKJS first book. Do Project |            |     x     |
